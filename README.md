@@ -1,3 +1,11 @@
+Screenshots:
+![image](https://github.com/BilalAhmadKhan2/Weather-APP-Svelte/assets/130067109/eebfc1d5-9103-41f2-9cdd-93cc02ec1a3f)
+![image](https://github.com/BilalAhmadKhan2/Weather-APP-Svelte/assets/130067109/cef94861-069f-4ad5-8dd2-0914f8085fdd)
+
+API Note: API key can be obtained from weatherapi.com and copy the key inside constants.js.
+
+
+
 # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
 
 ---
